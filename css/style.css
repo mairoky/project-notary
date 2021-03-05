@@ -184,3 +184,153 @@ header{
 
 }
 /*learn more section end*/
+/*feature section start*/
+.feature{
+	 
+
+}
+.f-container{
+	margin: 80px 0;
+	text-align: center;
+}
+.f-content{
+	margin: 0 auto;
+	width: 95%;
+	margin-top: 70px;
+	overflow: hidden;
+
+}
+.box{
+	margin: 1% 1.4%;
+	padding: 2px;
+	width: 30%;
+	text-align: center;
+	float: left;
+	box-shadow: 10px 10px 10px transparent;
+
+}
+.box:hover{
+	box-shadow: 10px 10px 10px grey;
+	box-sizing: border-box;
+}
+.b-img{
+	margin: 0 auto;
+	width: 30%;
+
+}
+.b-img img{
+	width: 100%;
+
+}
+.box h3{
+
+}
+.box p{
+	padding: 2px;
+	font-size: 18px;
+
+}
+.f-container button{
+	margin-top: 70px;
+	width: 180px;
+}
+/*feature section end*/
+/*footer start*/
+footer{
+	background-color: #111;
+
+}
+.footer-top{}
+.ftop-content{
+	margin: 70px 0;
+	overflow: hidden;
+}
+.contact{
+	padding: 10px;
+	float: left;
+	width: 30%;
+	border: 1px solid;
+}
+.footer-h2{
+	font-size: 22px;
+	color: #C2233F;
+	text-transform: uppercase;
+}
+.address{
+	
+}
+.social-link{
+
+}
+.link{
+
+}
+.link ul{}
+.link ul li{
+	margin: 6px 0;
+	list-style: none;
+}
+.link ul li a{
+	color: #767272;
+	text-decoration: none;
+}
+.link ul li a:hover{
+	color: #C2233F;
+}
+.useful-link{
+	margin: 0 6%;
+	padding: 10px;
+	float: left;
+	width: 20%;
+	border: 1px solid;
+}
+.newsletter{
+	padding: 10px;
+	float: left;
+	width: 30%;
+	border: 1px solid;
+}
+.newsletter p{
+	font-size: 16px;
+	color: #767272;
+}
+.subscribe{
+	margin-top: 50px;
+	position: relative;
+}
+.subscribe input{
+	width: 63%;
+	height: 45px;
+	color: #767272;
+	background: transparent;
+	border: 1px solid white;
+}
+.subscribe input:focus{
+	outline: 0;
+}
+.subscribe button{
+	margin: 0;
+	width: 150px;
+	height: 50px;
+	font-size: 16px;
+	color: white;
+	background: #C2233F;
+	border: 1px solid white;
+	cursor: pointer;
+	position: absolute;
+	top: 0;
+	right: -7px;
+}
+.subscribe button:focus{
+	outline: 0;
+}
+.footer-bottom{
+	min-height: 70px;
+	background-color: #767272;
+	text-align: center;
+}
+.footer-bottom p{
+	font-size: 16px;
+	color: white;
+}
+/*footer end*/
